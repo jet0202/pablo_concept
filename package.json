@@ -1,0 +1,22 @@
+{
+  "name": "pablo_concept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jet0202/pablo_concept.git"
+  },
+  "author": "Jeremy Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jet0202/pablo_concept/issues"
+  },
+  "homepage": "https://github.com/jet0202/pablo_concept#readme",
+  "dependencies": {
+    "sass": "^1.32.5"
+  }
+}
