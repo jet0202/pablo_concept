@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jet0202/pablo_concept#readme",
   "dependencies": {
+    "gsap": "^3.6.0",
     "sass": "^1.32.5"
   }
 }
