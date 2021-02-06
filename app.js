@@ -10,7 +10,7 @@ tl.from("#A", { duration: 0.6, ease: "power2.out", opacity:0, y: 40})
 tl.from("#B", { duration: 0.6, ease: "power2.out", opacity:0, x: 40})
 tl.from("#L", { duration: 0.6, ease: "power2.out", opacity:0, y: -40})
 tl.from("#O", { duration: 0.6, ease: "power2.out", opacity:0, x: -40})
-tl.from(".pablo-logo", { duration: 0.4, ease: "elastic", y: 10})
+tl.from(".pablo-logo", { duration: 0.9, ease: "elastic", y: 10})
 
 let tl2 = gsap.timeline({delay: 2, repeat:-1, repeatDelay:5});
 tl2.from(".first", { duration: 2.5, ease: "slow.out", opacity:0, x: -40})
